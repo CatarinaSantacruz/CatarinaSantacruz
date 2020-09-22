@@ -154,7 +154,7 @@
 
         <p>La pandemia ha hecho a toda la población mucho más consciente de la importancia y necesidad de estar conectados de forma continua a todo tipo de redes fijas y móviles, y emplear un conjunto creciente de aplicaciones para comunicarnos (a distancia mediante redes sociales), trabajar (teletrabajo) o divertirnos a través de múltiples aplicaciones ejecutadas en red. De la calidad y penetración en la sociedad de estos sistemas telemáticos, y de los conocimientos habilidades necesarias para utilizarlos, depende la posibilidad de mantener un porcentaje esencial de la actividad económica, incluso en fases de confinamiento total de millones de personas.</p>
         
-         <a target="_blank" href="https://theconversation.com/la-tecnologia-puede-ayudarnos-contra-la-pandemia-pero-no-olvidemos-sus-peligros-136211"><p>Más información</p></a>
+<a target="_blank" href="https://theconversation.com/la-tecnologia-puede-ayudarnos-contra-la-pandemia-pero-no-olvidemos-sus-peligros-136211"><p>Más información</p></a>
 
 
 
