@@ -153,6 +153,9 @@
         <p>La tecnología puede ser una herramienta clave para mejorar el control y el conocimiento de la pandemia en diversos aspectos. Puede dar soporte a los expertos en la materia para ayudar a conocer mejor la situación y tomar las decisiones más adecuadas. Aún así, no por ello debemos confiar la solución de una situación tan compleja únicamente a la tecnología. Podemos pagar un precio muy alto por ello.</p>
 
         <p>La pandemia ha hecho a toda la población mucho más consciente de la importancia y necesidad de estar conectados de forma continua a todo tipo de redes fijas y móviles, y emplear un conjunto creciente de aplicaciones para comunicarnos (a distancia mediante redes sociales), trabajar (teletrabajo) o divertirnos a través de múltiples aplicaciones ejecutadas en red. De la calidad y penetración en la sociedad de estos sistemas telemáticos, y de los conocimientos habilidades necesarias para utilizarlos, depende la posibilidad de mantener un porcentaje esencial de la actividad económica, incluso en fases de confinamiento total de millones de personas.</p>
+        
+         <a target="_blank" href="https://theconversation.com/la-tecnologia-puede-ayudarnos-contra-la-pandemia-pero-no-olvidemos-sus-peligros-136211"><p>Más información</p></a>
+
 
 
     </body>
